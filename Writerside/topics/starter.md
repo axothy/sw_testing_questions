@@ -671,6 +671,140 @@ You can use it as a sandbox to play with Writerside features, and remove it from
 
 ## 43. Фаззинг. Общие принципы.
 
+![image_257.png](image_257.png)
+
+![image_258.png](image_258.png)
+
+![image_259.png](image_259.png)
+
+![image_260.png](image_260.png)
+
+![image_261.png](image_261.png)
+
+![image_262.png](image_262.png)
+
+![image_263.png](image_263.png)
+
+![image_264.png](image_264.png)
+
+![image_265.png](image_265.png)
+
+![image_266.png](image_266.png)
+
+![image_268.png](image_268.png)
+
+![image_267.png](image_267.png)
+
+![image_269.png](image_269.png)
+
+## 44. Фаззинг. Генеративное случайное тестирование
+
+![image_270.png](image_270.png)
+
+![image_271.png](image_271.png)
+
+![image_272.png](image_272.png)
+
+## 45. Фаззинг. Мутационное случайное тестирование. Комбинированное случайное тестирование
+
+![image_273.png](image_273.png)
+
+![image_274.png](image_274.png)
+
+![image_275.png](image_275.png)
+
+![image_276.png](image_276.png)
+
+![image_277.png](image_277.png)
+
+## 46. Фаззинг. Направленное случайное тестирование
+
+![image_278.png](image_278.png)
+
+![image_279.png](image_279.png)
+
+![image_280.png](image_280.png)
+
+![image_281.png](image_281.png)
+
+![image_282.png](image_282.png)
+
+![image_283.png](image_283.png)
+
+## 47. Конколик-тестирование
+
+![image_284.png](image_284.png)
+
+![image_285.png](image_285.png)
+
+![image_286.png](image_286.png)
+
+![image_287.png](image_287.png)
+
+![image_288.png](image_288.png)
+
+![image_289.png](image_289.png)
+
+## 48. Тестирование на основе свойств
+
+![image_290.png](image_290.png)
+
+![image_291.png](image_291.png)
+
+![image_292.png](image_292.png)
+
+![image_293.png](image_293.png)
+
+![image_294.png](image_294.png)
+
+![image_295.png](image_295.png)
+
+![image_296.png](image_296.png)
+
+![image_297.png](image_297.png)
+
+![image_298.png](image_298.png)
+
+![image_299.png](image_299.png)
+
+![image_300.png](image_300.png)
+
+## 49. Контрактное программирование. Основные положения
+
+## + 50. Контрактное программирование и ООП. Применение контрактного программирования
+
+## + 51. Использование контрактного программирования для тестирования на основе свойств
+
+![image_301.png](image_301.png)
+
+![image_302.png](image_302.png)
+
+![image_303.png](image_303.png)
+
+![image_304.png](image_304.png)
+
+![image_305.png](image_305.png)
+
+![image_306.png](image_306.png)
+
+![image_307.png](image_307.png)
+
+![image_308.png](image_308.png)
+
+![image_309.png](image_309.png)
+
+![image_310.png](image_310.png)
+
+![image_311.png](image_311.png)
+
+![image_312.png](image_312.png)
+
+![image_313.png](image_313.png)
+
+![image_314.png](image_314.png)
+
+
+
 
 
 
