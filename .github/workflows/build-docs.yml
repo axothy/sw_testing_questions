@@ -9,6 +9,12 @@ env:
   INSTANCE: 'Writerside/in'
   ARTIFACT: 'webHelpIN2-all.zip'
   DOCKER_VERSION: '241.16003'
+  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
   build:
